@@ -1,0 +1,89 @@
+#footer{
+    .up img{
+        margin-right: 715px;
+    }
+    .up{
+        display: flex;
+        margin-bottom: 82px;
+        a{
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 22px;
+            line-height: 30px;
+            letter-spacing: -0.3px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+            border: 2px;
+            padding: 16px;
+            border-radius: 30px;
+            -webkit-border-radius: 20px;
+            color: white;
+            &:hover{
+                background: #FFA343;
+                color: #000;
+            }
+
+        }
+       
+    }
+    .left{
+        h2{
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 49px;
+            letter-spacing: -0.3px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+        }
+        p{
+            margin-top: 49px;
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 15px;
+            line-height: 20px;
+            letter-spacing: -0.204545px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+        }
+        .icon{
+            margin-top: 30px;
+            color: white;
+            font-size: 16px;
+            i{
+                margin-right: 19px;
+            }
+        }
+    }
+    .left_item{
+        a{
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 0px;
+            letter-spacing: -0.231818px;
+            text-transform: capitalize;
+            color: #FFD1A0;
+            margin-bottom: 32px;
+        }
+        p{
+            line-height: 10px;
+            margin-top: 14px;
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 19px;
+            line-height: 0px;
+            letter-spacing: -0.204545px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+            opacity: 0.7px;
+            
+        }
+    }
+
+}

@@ -1,0 +1,55 @@
+.manu_bg{
+    ul{
+        li{
+            a{
+                color: white;
+                margin: 30px;
+                &:hover{
+                    color: gold;
+                }
+            }
+        }
+       }
+       .contact{
+        a{
+   
+            border: 2px;
+            padding: 16px;
+            border-radius: 30px;
+            -webkit-border-radius: 20px;
+            color: white;
+    &:hover{
+        background: darkred;
+        color: white;
+    }
+        }
+       }
+}
+// <!--Banner part start Discover Wonderful Indonesia-->
+
+#banner_one{
+    margin-top: 160px;
+    h6{
+        margin-top: 20px;
+        margin-bottom: 37px;
+        color: #FFC178;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        font-family: 'Open Sans', sans-serif;
+        line-height: 7px;
+        text-transform: uppercase;
+    }
+    h1{
+        margin-bottom: 462px;
+        font-family: 'Open Sans';
+        font-weight: 500;
+        font-style: normal;
+        font-size: 96px;
+        line-height: 100px;
+        color: white;
+        span{
+            font-weight: 700;
+        }
+    }
+}
